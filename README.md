@@ -37,8 +37,8 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 ## Uygulama Arayüzleri
 <div style="display:flex; flex-wrap: wrap; justify-content: space-between; margin-top: 30px;">
   <img src="promptgorsel/view1.png" alt="View 1" style="width:42%; height: auto; margin-top: 30px;">
-  <img src="promptgorsel/view2.png" alt="View 2" style="width:52%; height: auto; margin-top: 30px;">
-  <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:48%; height: auto; margin-top: 30px;">
+  <img src="promptgorsel/view2.png" alt="View 2" style="width:54%; height: auto; margin-top: 30px;">
+  <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:43%; height: auto; margin-top: 30px;">
 </div>
 
 
