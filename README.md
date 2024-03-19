@@ -15,6 +15,10 @@ Başlık arka plan rengi olarak açık mavi tonları, metinler için siyah, arka
 - CSS3 (Flexbox kullanılarak detaylı ve responsive tasarım)
 - JavaScript (Modal pencere açma/kapatma işlevselliği)
 
+## Kullanılan Yapay Zeka Teknolojileri
+
+Bu projede, sanat galerisi web sitesinin oluşturulmasında yapay zeka teknolojilerinden faydalanılmıştır. Özellikle, Stable Diffusion (Lexica.Art) ve ChatGPT gibi yapay zeka modelleri kullanılarak proje geliştirilmiştir. Bu modeller, projenin belirli bölümlerinde içerik üretimi ve arayüz tasarımında yardımcı olmuştur.
+
 ## Kurulum
 Projeyi klonlayın:
  ```bash
