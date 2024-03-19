@@ -52,14 +52,9 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 
 </div>
 
-<div style="display:flex; justify-content: space-between; margin-top: 30px;">
-
-    <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto;"
-        
+</div> <div style="display:flex; justify-content: space-between; margin-top: 30px;"> 
+ <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto;"> 
 </div>
-
-
-
 
 
 
