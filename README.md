@@ -17,7 +17,7 @@ Başlık arka plan rengi olarak açık mavi tonları, metinler için siyah, arka
 
 ## Kullanılan Yapay Zeka Teknolojileri
 
-Bu projede, sanat galerisi web sitesinin oluşturulmasında yapay zeka teknolojilerinden faydalanılmıştır. Özellikle, Stable Diffusion (Lexica.Art) ve ChatGPT gibi yapay zeka modelleri kullanılarak proje geliştirilmiştir. Bu modeller, projenin belirli bölümlerinde içerik üretimi ve arayüz tasarımında yardımcı olmuştur.
+Bu projede, sanat galerisi web sitesinin oluşturulmasında yapay zeka teknolojilerinden faydalanılmıştır. Özellikle, Stable Diffusion (Lexica.Art) ve ChatGPT gibi yapay zeka modelleri kullanılarak proje geliştirilmiştir. Bu modeller, projenin tamamında içerik üretimi ve arayüz tasarımında yardımcı olmuştur.
 
 ## Kurulum
 Projeyi klonlayın:
