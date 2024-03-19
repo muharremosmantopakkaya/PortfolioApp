@@ -19,7 +19,7 @@ Başlık arka plan rengi olarak açık mavi tonları, metinler için siyah, arka
 Projeyi klonlayın:
  ```bash
 
-git clone https://github.com/kullanici_adi/sanat-galerisi.git
+git clone https://github.com/muharremosmantopakkaya/sanat-galerisi.git
  ```
 Proje dizinine gidin:
 
