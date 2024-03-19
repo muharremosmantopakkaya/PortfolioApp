@@ -41,22 +41,25 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 ## Uygulama Arayüzleri
 
 <div style="display:flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="promptgorsel/view1.png" alt="View 1" style="width:42%; height: auto; margin-bottom: 30px;">
-    <img src="promptgorsel/view2.png" alt="View 2" style="width:53%; height: auto; margin-bottom: 30px;">
+    <img src="promptgorsel/view1.png" alt="View 1" style="width:43%; height: auto; margin-bottom: 30px;">
+    <img src="promptgorsel/view2.png" alt="View 2" style="width:54%; height: auto; margin-bottom: 30px;">
 </div>
+
+ <div style="display:flex; justify-content: space-between;">
 <img src="promptgorsel/galeri.png" alt="Uygulama Arayüzü 2" style="width:57%; height: auto;">
+ </div>
 
-</div>
-       
-</div>
 
-<div style="display:flex; justify-content: space-between; margin-top: 50px;">
-    <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:52%; height: auto;">
-      <img src="promptgorsel/uygulama.png" alt="Uygulama Arayüzü 1" style="width:49%; height: auto;">
 
-</div>
+<div style="display:flex; justify-content: space-between;">
+    <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:57%; height: auto;">
+ </div>
 
-</div> <div style="display:flex; justify-content: space-between; margin-top: 30px;"> 
+<div style="display:flex; justify-content: space-between; ">
+      <img src="promptgorsel/uygulama.png" alt="Uygulama Arayüzü 1" style="width:57%; height: auto;">
+
+
+</div> <div style="display:flex; justify-content: space-between;"> 
  <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto;"> 
 </div>
 
@@ -66,7 +69,7 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 
   <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:32%;">
   <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:36%;">
-  <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
+  <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:35%;">
     <img src="promptgorsel/readme.png" alt="Chat Prompt Başlangıç" style="width:45%; margin-top: -10px;">
   <img src="promptgorsel/Image Prompt.png" alt="Chat Prompt Başlangıç" style="width:41%;">
   <img src="promptgorsel/Pop Art Prompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
