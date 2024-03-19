@@ -19,13 +19,13 @@ Başlık arka plan rengi olarak açık mavi tonları, metinler için siyah, arka
 Projeyi klonlayın:
  ```bash
 
-git clone https://github.com/muharremosmantopakkaya/sanat-galerisi.git
+git clone https://github.com/muharremosmantopakkaya/PortfolioApp.git
  ```
 Proje dizinine gidin:
 
  ```bash
 
-cd sanat-galerisi
+cd PortfolioApp
  ```
 Dosyaları bir web sunucusuna yükleyin veya yerel bir sunucuda çalıştırın.
 
