@@ -67,6 +67,8 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
   <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:32%;">
   <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:36%;">
   <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
+  <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
+   <img src="promptgorsel/Image-Prompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
 </div>
 
 
