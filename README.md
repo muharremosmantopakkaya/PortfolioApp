@@ -35,6 +35,6 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 İletişim formunu kullanarak bizimle iletişime geçin.
 
 Kullandığım promptlar 
-![Chat Prompt Başlangıç](promptgorsel/chatpromptbaslanc.png)
+![Chat Prompt Başlangıç](promptgorsel/chatpromptbaslangıç.png)
 ![Chat Prompt](promptgorsel/chatprompt.png)
 ![Image Prompt](promptgorsel/imageprompt.png)
