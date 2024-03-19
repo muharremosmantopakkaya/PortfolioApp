@@ -40,7 +40,7 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
   <img src="promptgorsel/view1.png" alt="View 1" style="width:42%; height: auto; margin-top: 30px;">
 
   <img src="promptgorsel/view2.png" alt="View 2" style="width:53%; height: auto; margin-top: 30px;">
-  <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:49%; height: auto; margin-top: 30px;">
+  <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:49%; height: auto; margin-top: 80px;">
   <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto; margin-top: 30px;">
 </div>
 
