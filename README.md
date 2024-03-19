@@ -52,8 +52,9 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 </div>
 
 <div style="display:flex; justify-content: space-between; margin-top: 30px;">
+  <img src="promptgorsel/uygulama.png" alt="Uygulama Arayüzü 1" style="width:49%; height: auto;">
     <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto;"
-         <img src="promptgorsel/uygulama.png" alt="Uygulama Arayüzü 1" style="width:49%; height: auto;">
+        
 </div>
 
 
