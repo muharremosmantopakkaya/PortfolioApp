@@ -50,11 +50,11 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
     <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:58%; height: auto;">
  </div>
 
-<div style="display:flex; justify-content: space-between; margin-top: 50px;">
+<div style="display:flex; justify-content: space-between; ">
       <img src="promptgorsel/uygulama.png" alt="Uygulama Arayüzü 1" style="width:57%; height: auto;">
 
 
-</div> <div style="display:flex; justify-content: space-between; margin-top: 30px;"> 
+</div> <div style="display:flex; justify-content: space-between;"> 
  <img src="promptgorsel/iphone.png" alt="iPhone" style="width:17%; height: auto;"> 
 </div>
 
