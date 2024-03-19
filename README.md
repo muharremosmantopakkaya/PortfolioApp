@@ -44,7 +44,11 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
     <img src="promptgorsel/view1.png" alt="View 1" style="width:42%; height: auto; margin-bottom: 30px;">
     <img src="promptgorsel/view2.png" alt="View 2" style="width:53%; height: auto; margin-bottom: 30px;">
 </div>
+<div 
+ 
 <img src="promptgorsel/galeri.png" alt="Uygulama Arayüzü 2" style="width:57%; height: auto;">
+
+</div>
 
 <div style="display:flex; justify-content: space-between;">
     <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:57%; height: auto;">
