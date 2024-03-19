@@ -39,7 +39,7 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 <div style="display:flex; flex-wrap: wrap; justify-content: space-between;">
 
   <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:40%; margin-top: -20px;">
-  <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:50%; margin-top: -20px;">
+  <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:43%; margin-top: -20px;">
   <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:40%; margin-top: -20px;">
 </div>
 
