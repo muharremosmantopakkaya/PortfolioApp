@@ -34,6 +34,12 @@ Ana sayfada gezinin ve sanat eserlerini keşfedin.
 Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 İletişim formunu kullanarak bizimle iletişime geçin.
 
+## Uygulama Arayüzleri
+<div style="display:flex; flex-wrap: wrap; justify-content: space-between; margin-top: 30px;">
+  <img src="promptgorsel/view1.png" alt="View 1" style="width:42%; height: auto; margin-top: 30px;">
+  <img src="promptgorsel/view2.png" alt="View 2" style="width:48%; height: auto; margin-top: 30px;">
+  <img src="promptgorsel/touchprompt.png" alt="Touch Prompt" style="width:48%; height: auto; margin-top: 30px;">
+</div>
 
 
 
@@ -41,7 +47,7 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 <div style="display:flex; justify-content: space-between;">
 
   <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:32%; margin-top: -40px;">
-  <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:40%; margin-top: -40px;">
+  <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:36%; margin-top: -40px;">
   <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:40%;">
 </div>
 
