@@ -17,12 +17,12 @@ Tüm gerekliliklerden anlıyorsanız lütfen evet veya hayır şeklinde yanıt v
 prompt 2
 
 Sanat Galerisi adında bir web sitesi oluşturuyorum. Bu site, farklı sanat eserlerini sergileyen bir platform olarak tasarlanmıştır. Ana sayfa, Hakkımızda, Galeri ve İletişim olmak üzere dört ana bölümden oluşuyor. Başlık arka plan rengi olarak açık mavi tonları, metinler için siyah, arka plan beyaz olacak şekilde minimalist bir renk paleti kullanmayı düşünüyorum.
-
-Yazı tipleri olarak sans-serif bir font, kenar boşlukları ve padding değerleriyle temiz bir düzen, görsellerin kenarlarında yumuşak gölgeler kullanmayı planlıyorum. Galeri bölümünde, görsellere tıklandığında açıklama olarak bir modal pencere çıkacak. İletişim formunda ise kullanıcıdan ad, e-posta ve mesaj bilgilerini girmesini isteyeceğim.
-
-Web sitesinin HTML yapısında, semantik etiketlerin (header, main, nav, section, article, aside, footer) kullanılması beklenmektedir. Oluşturulan web sitesi, farklı cihaz ve ekran boyutlarına uyumlu olmalıdır. Mobil, tablet ve masaüstü cihazlarda düzgün bir şekilde görüntülenmeli ve kullanıcı deneyimini artırmak için tasarımın her boyutta optimize edilmiş olması gerekmektedir.
-
-Bu şartlara uygun bir prompt yazar mısın? Responsive olabilmesi için HTML ve CSS kısmını revize eder misin? Sayfanın yapısının bozulmaması için bir JavaScript kodu ekleyebilir miyiz? Öncelikle form dosyasının kontrolü için, sonrasında her bir görsele tıklandığında modal penceresinin gözükmesini istiyorum, açıklama metnini modal içeriğine eklenmesi, kapat düğmesi olsun istiyorum ve bu pencereye bir başlık eklensin istiyorum. Ayrıca, yazdığın kodların hiçbirini yorum satırı olarak açıklamanı istemiyorum. Daha detaylı bir flexbox responsive tasarım olmasını rica ediyorum.
+Yazı tipleri olarak sans-serif bir font, kenar boşlukları ve padding değerleriyle temiz bir düzen, görsellerin kenarlarında yumuşak gölgeler kullanmayı planlıyorum. Galeri bölümünde, görsellere tıklandığında açıklama olarak bir modal pencere çıkacak. İletişim formunda ise kullanıcıdan ad, e- posta ve mesaj bilgilerini girmesini isteyeceğim.
+Web sitesinin HTML yapısında, semantik etiketlerin (header, main, nav, section, article, aside,
+footer) kullanılması beklenmektedir. Oluşturulan web sitesi, farklı cihaz ve ekran boyutlarına
+uyumlu olmalıdır. Mobil, tablet ve masaüstü cihazlarda düzgün bir şekilde görüntülenmeli ve
+kullanıcı deneyimini artırmak için tasarımın her boyutta optimize edilmiş olması gerekmektedir.
+Bu şartlara uygun bir kod yazar mısın? Responsive olabilmesi için HTML ve CSS kısmını ona göre düzenler misin? Sayfanın yapısının bozulmaması için bir JavaScript kodu ekleyebilir miyiz? Öncelikle form dosyasının kontrolü için, sonrasında her bir görsele tıklandığında modal penceresinin gözükmesini istiyorum, açıklama metnini modal içeriğine eklenmesi, kapat düğmesi olsun istiyorum ve bu pencereye bir başlık eklensin istiyorum. Ayrıca, yazdığın kodların hiçbirini yorum satırı olarak açıklamanı istemiyorum. Daha detaylı bir flexbox ve responsive bir tasarım olmasını istiyorum.
 
 
 Resim oluşturmak icin;
