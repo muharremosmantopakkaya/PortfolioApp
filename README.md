@@ -67,7 +67,7 @@ Galeri bölümünde her bir sanat eserinin açıklamasını görüntüleyin.
 ## Kullandığım promptlar 
 <div style="display:flex; justify-content: space-between;">
 
-  <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:37%;">
+  <img src="promptgorsel/chatprompt.png" alt="Chat Prompt" style="width:36%;">
   <img src="promptgorsel/imageprompt.png" alt="Image Prompt" style="width:36%;">
   <img src="promptgorsel/baslangicprompt.png" alt="Chat Prompt Başlangıç" style="width:35%;">
     <img src="promptgorsel/readme.png" alt="Chat Prompt Başlangıç" style="width:45%; margin-top: -10px;">
